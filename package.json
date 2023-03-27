@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "typescript": "^5.0.2"
+  },
+  "name": "react_typescript_demo",
+  "version": "1.0.0",
+  "main": "no-typescript.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshKatLuck/react_typescript_demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshKatLuck/react_typescript_demo/issues"
+  },
+  "homepage": "https://github.com/AshKatLuck/react_typescript_demo#readme",
+  "description": ""
+}
